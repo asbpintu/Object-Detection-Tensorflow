@@ -1,0 +1,20 @@
+Total objects found in .\Input\image1.jpg: 3
+{'person': 1, 'dog': 2}
+Total objects found in .\Input\image2.jpg: 3
+{'person': 2, 'dog': 1}
+Total objects found in .\Input\image3.jpg: 2
+{'bird': 2}
+Total objects found in .\Input\pp1.jpg: 2
+{'bird': 1, 'cat': 1}
+Total objects found in .\Input\pp2.jpg: 2
+{'bicycle': 2}
+Total objects found in .\Input\pp3.jpg: 4
+{'bus': 1, 'car': 2, 'motorcycle': 1}
+Total objects found in .\Input\pp4.jpg: 3
+{'person': 2, 'dog': 1}
+Total objects found in .\Input\pp5.jpg: 3
+{'bus': 1, 'car': 1, 'person': 1}
+Total objects found in .\Input\pp6.jpg: 2
+{'person': 2}
+Total objects found in .\Input\pp7.jpg: 3
+{'bus': 1, 'car': 1, 'person': 1}
