@@ -1,0 +1,7 @@
+1. Clone the Github Repository
+2. From Project directory(Object-Detection-Tensorflow) Open Input folder and Replace or Paste your Images
+3. Open your Terminal or Anaconda Prompt and go to the Project Folder(Object-Detection-Tensorflow)
+4. Activate your python Environment
+5. Run the command
+
+Result: You will get your result(Object Detected Images) in Output Directory
